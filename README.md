@@ -17,10 +17,3 @@
 		<li> Learning </li>
 		<li> Art and Music</li>
 </div>
-
-
-
-
-<div>
-<script async type="text/javascript" src="index.js"></script>
-</div>
