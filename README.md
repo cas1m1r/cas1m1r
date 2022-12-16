@@ -17,7 +17,6 @@
 		<li> Learning </li>
 		<li> Art and Music</li>
 </div>
-
-<script defer src="index.js"></script>
+<link rel="stylesheet" href="styles.css" />
 <div>Github Profile Visitors:</div>
    <div class="profile-counter"></div>
