@@ -17,8 +17,4 @@
 		<li> Learning </li>
 		<li> Art and Music</li>
 </div>
-<div>
-	<script>
-		alert("Welcome to my Github Page :)");
-	</script>
-</div>
+<script type="text/javascript" src="index.js"></script>
