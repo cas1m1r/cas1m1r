@@ -5,15 +5,19 @@
 
 **I dont know. You don't know. Let's just work together to figure it all out**
 
+
 ---
-<div>
 <img src="https://github.com/cas1m1r/-self/blob/main/img/cosmic.gif?raw=true" width="100%">	
-	<ul> Things I like 
+
+<div>
+	<ul> Interests Include </
+		ul>
 		<li> Science </li>
 		<li> Programming </li>
 		<li> Learning </li>
 		<li> Art and Music</li>
-	</ul>
 </div>
 
-
+<script defer src="index.js"></script>
+<div>Github Profile Visitors:</div>
+   <div class="profile-counter"></div>
