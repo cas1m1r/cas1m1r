@@ -9,12 +9,13 @@
 
 
 <div>
-	<ul> Things I like </ul>
-	<li> Science </li>
-	<li> Programming </li>
-	<li> Learning </li>
-	<li> Art and Music</li>
+	<ul> Things I like 
 	<img src="https://github.com/cas1m1r/-self/blob/main/img/cosmic.gif?raw=true" width="100%">
+		<li> Science </li>
+		<li> Programming </li>
+		<li> Learning </li>
+		<li> Art and Music</li>
+	</ul>
 </div>
 
 
