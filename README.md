@@ -17,6 +17,8 @@
 		<li> Learning </li>
 		<li> Art and Music</li>
 </div>
-<link rel="stylesheet" href="styles.css" />
-<div>Github Profile Visitors:</div>
-   <div class="profile-counter"></div>
+<div>
+	<script>
+		alert("Welcome to my Github Page :)");
+	</script>
+</div>
