@@ -6,7 +6,7 @@
 
 
 ---
-<img src="https://github.com/cas1m1r/-self/blob/main/img/cosmic.gif?raw=true" width="100%" script="index.js">	
+<img src="https://github.com/cas1m1r/-self/blob/main/img/cosmic.gif?raw=true" width="100%">	
 
 <div>
 	<ul> Interests Include </
