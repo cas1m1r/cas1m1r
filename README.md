@@ -1,5 +1,5 @@
 # Hello Friend
-<img src="https://github.com/cas1m1r/-self/blob/main/img/homer.gif?raw=true" width="40%" align="center">
+<img src="https://github.com/cas1m1r/-self/blob/main/img/cas1m1r.gif?raw=true" width="40%" align="center">
 
 *Who are you? Who am I? How did we get here?*
 
