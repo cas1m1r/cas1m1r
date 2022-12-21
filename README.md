@@ -1,9 +1,9 @@
-# Hello Friend
-<img src="https://github.com/cas1m1r/-self/blob/main/img/cas1m1r.gif?raw=true" width="40%" align="center">
+# 											Hello Friend
+<img src="https://github.com/cas1m1r/-self/blob/main/img/cas1m1r.gif?raw=true" width="80%" align="center">
 
-*Who are you? Who am I? How did we get here?*
+							*Who are you? Who am I? How did we get here?*
 
-**I dont know. You don't know. Let's just work together to figure it all out**
+			**I dont know. You don't know. Maybe we can work together to figure it all out**
 
 
 ---
